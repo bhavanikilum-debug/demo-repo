@@ -1,4 +1,5 @@
 this is my file - first line is updated
+this is my file - first line updated 
 updated
 
 updated in branch b1
